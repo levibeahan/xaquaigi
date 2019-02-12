@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://weekique.usnish.org/sitemap.xml
